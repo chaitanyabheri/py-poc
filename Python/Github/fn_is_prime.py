@@ -16,3 +16,4 @@ def is_prime(num):
 
 
 print(is_prime('3'))
+
