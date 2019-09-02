@@ -13,6 +13,8 @@ Python/Github/ -- practice github manul pull/push
     - git add filepath
     - git commit -m "User pipenv to manage dependencies"
     - git push
+    - mkdir subdir
+    - git mv filename.ext subdir/
     
     
     
@@ -23,5 +25,5 @@ This proj reuires python3 and the following packages
 
 ```
     pipenv install 
-    pinenv run "fn_is_prime.py"
+    pinenv run "Github/fn_is_prime.py"
 '''
