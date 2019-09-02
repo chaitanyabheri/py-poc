@@ -15,6 +15,7 @@ Python/Github/ -- practice github manul pull/push
     - git push
     - mkdir subdir
     - git mv filename.ext subdir/
+    - git log --> tracks the git changes shift Q to exit
     
     
     
