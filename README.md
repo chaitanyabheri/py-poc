@@ -10,6 +10,9 @@ Python/Github/ -- practice github manul pull/push
     
 ## Code checkin Steps
     - git status
+    - git add filepath
+    - git commit -m "User pipenv to manage dependencies"
+    - git push
     
     
     

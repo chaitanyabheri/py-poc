@@ -1,3 +1,4 @@
+import requests
 def is_prime(num):
     if str(num).isdigit() is False:
         return num + ' is NOT Prime'
@@ -17,3 +18,5 @@ def is_prime(num):
 
 print(is_prime('3'))
 
+
+#print(requests.get('https://www.danb.com'))
