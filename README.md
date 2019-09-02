@@ -27,4 +27,7 @@ This proj reuires python3 and the following packages
 ```
     pipenv install 
     pinenv run "Github/fn_is_prime.py"
+    pipenv install -d ipython
+    /Users/mbheri/PycharmProjects/py-poc/Github/
+
 '''
