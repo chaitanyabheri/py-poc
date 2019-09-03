@@ -1,0 +1,16 @@
+
+
+
+ - SSH setup steps  —> https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+ STEPS TO INTEGRATE
+Terminal steps
+- [ ] SSH setup steps  —> https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+- [ ] Create Github directory —> mkdir /Users/mbheri/PycharmProjects/github-code
+- [ ] Point to Github directory  —> cd /Users/mbheri/PycharmProjects/github-code
+- [ ] Find existing SSH —>  ssh-add
+- [ ]  ls ~/.ssh
+
+# ssh to terminal
+ssh domainname
+# update latest commands
+sudo yum update
